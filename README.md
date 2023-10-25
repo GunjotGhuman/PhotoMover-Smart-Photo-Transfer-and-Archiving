@@ -3,6 +3,7 @@
 PhotoMover is a powerful Bash script designed to simplify the task of transferring photos from source directories to a target destination, all while intelligently managing duplicates and maintaining data integrity. It's an essential tool for anyone looking to organize and archive their photo collections efficiently.
 
 Key Features:
+
 Duplicate Prevention: PhotoMover employs MD5 checksums and a record-keeping system to ensure that duplicate images are not transferred.
 
 User-Friendly Options: It offers command-line options for verbose output and provides a helpful usage guide to make the process as straightforward as possible.
