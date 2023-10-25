@@ -1,7 +1,5 @@
 # PhotoMover-Smart-Photo-Transfer-and-Archiving
 
-PhotoMover: Smart Photo Transfer and Archiving
-
 PhotoMover is a powerful Bash script designed to simplify the task of transferring photos from source directories to a target destination, all while intelligently managing duplicates and maintaining data integrity. It's an essential tool for anyone looking to organize and archive their photo collections efficiently.
 
 Key Features:
